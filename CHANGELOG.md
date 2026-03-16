@@ -15,8 +15,10 @@ and this project tries to adhere to
 	**Security** in case of vulnerabilities.
 -->
 
-## Unreleased
+## [0.1.0] - 2026.03.16
 
 ### Added
 
 - Added JSON tokens
+
+[0.1.0]: https://github.com/binyamin/modern-font-stacks/releases/tag/v0.1.0
