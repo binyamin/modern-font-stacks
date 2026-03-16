@@ -4,11 +4,16 @@
 	"type": "module",
 	"version": "0.1.0",
 	"license": "MIT",
+	"main": "./src/tokens.json",
 	"author": {
 		"name": "Binyamin Green",
 		"url": "https://binyam.in"
 	},
 	"repository": "git@github.com:binyamin/modern-font-stacks.git",
+	"exports": {
+		".": "./src/tokens.json",
+		"./*": "./src/*"
+	},
 	"scripts": {
 		"lint": "biome check",
 		"format": "biome format --write"

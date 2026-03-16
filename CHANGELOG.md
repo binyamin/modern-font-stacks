@@ -16,3 +16,7 @@ and this project tries to adhere to
 -->
 
 ## Unreleased
+
+### Added
+
+- Added JSON tokens
